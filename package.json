@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/scorecast/scorecast_backend#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "expo-server-sdk": "^3.2.0",
+    "express": "^4.16.4",
+    "firebase-admin": "^7.3.0"
   }
 }
