@@ -1,0 +1,19 @@
+{
+  "name": "scorecast_backend",
+  "version": "1.0.0",
+  "description": "Simple backend to handle push notifications for the Scorecast application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scorecast/scorecast_backend.git"
+  },
+  "author": "Justin Ziegler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scorecast/scorecast_backend/issues"
+  },
+  "homepage": "https://github.com/scorecast/scorecast_backend#readme"
+}
