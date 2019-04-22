@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/scorecast/scorecast_backend/issues"
   },
-  "homepage": "https://github.com/scorecast/scorecast_backend#readme"
+  "homepage": "https://github.com/scorecast/scorecast_backend#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
